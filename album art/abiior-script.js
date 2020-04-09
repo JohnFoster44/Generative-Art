@@ -6,43 +6,43 @@ console.log();
 // teal square
 ctx.beginPath();
 ctx.fillStyle = "lightskyblue";
-ctx.fillRect(200,80,10,10);
+ctx.fillRect(200,80,8,8);
 ctx.stroke();
 
 // black square
 ctx.beginPath();
 ctx.fillStyle = "black";
-ctx.fillRect(140,200,10,10);
+ctx.fillRect(142,200,8,8);
 ctx.stroke();
 
 // pink square
 ctx.beginPath();
 ctx.fillStyle = "pink";
-ctx.fillRect(150,200,10,10);
+ctx.fillRect(150,200,8,8);
 ctx.stroke();
 
 // red square
 ctx.beginPath();
 ctx.fillStyle = "red";
-ctx.fillRect(350,200,10,10);
+ctx.fillRect(350,200,8,8);
 ctx.stroke();
 
 // green square
 ctx.beginPath();
 ctx.fillStyle = "green";
-ctx.fillRect(200,300,10,10);
+ctx.fillRect(200,300,8,8);
 ctx.stroke();
 
 // yellow square
 ctx.beginPath();
 ctx.fillStyle = "yellow";
-ctx.fillRect(200,400,10,10);
+ctx.fillRect(200,400,8,8);
 ctx.stroke();
 
 // purp square
 ctx.beginPath();
 ctx.fillStyle = "purple";
-ctx.fillRect(350,400,10,10);
+ctx.fillRect(350,500,8,8);
 ctx.stroke();
 
 // (mfc)
